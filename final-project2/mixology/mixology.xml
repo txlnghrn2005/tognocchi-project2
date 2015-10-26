@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="mixology.xsl" type="text/xsl" ?>
+
+<mixology>
+	<group_category>
+			<title>Bourbon</title>
+					<bourbon_drinks>Amalfi Cocktail</bourbon_drinks>
+					<ingre>
+						<ingredients>1 1/2 oz bourbon</ingredients>
+						<ingredients>1 oz. lemon juice</ingredients>
+						<ingredients>1/2 oz Galliano</ingredients>
+						<ingredients>1 tsp. orgeat syrup</ingredients>
+						<ingredients>Club soda</ingredients>
+					</ingre>
+					<mdir>
+						<mdir_steps>Mix all ingredients, except club soda, with cracked ice in a shaker or blender.</mdir_steps>
+						<mdir_steps>Pour into a chilled Collins glass.</mdir_steps>
+						<mdir_steps>Top off with club soda.</mdir_steps>
+					</mdir>
+					<glass>
+						<serving_glass>Collins Glass</serving_glass>
+						<image>images/collins_glass.jpg</image>
+					</glass>
+	</group_category>
+	<group_category>
+			<title>Bourbon</title>
+					<bourbon_drinks>Bank Holiday</bourbon_drinks>
+					<ingre>
+						<ingredients>1/2 bourbon</ingredients>
+						<ingredients>1/2 oz. Galliano</ingredients>
+						<ingredients>1/2 oz. créme de cacao</ingredients>
+						<ingredients>1/2 oz. brandy</ingredients>
+						<ingredients>2 oz. sweet cream</ingredients>
+					</ingre>
+					<mdir>
+						<mdir_steps>Mix all ingredients with cracked ice in a shaker or blender.</mdir_steps>
+						<mdir_steps>Strain into a chilled cocktail glass.</mdir_steps>
+					</mdir>
+					<glass>
+						<serving_glass>Cocktail Glass</serving_glass>
+						<image>images/cocktail_glass.jpg</image>
+					</glass>
+	</group_category>
+	<group_category>
+			<title>Bourbon</title>
+					<bourbon_drinks>Champagne Julep</bourbon_drinks>
+					<ingre>
+						<ingredients>3 oz. bourbon</ingredients>
+						<ingredients>1 tsp. sugar syrup</ingredients>
+						<ingredients>Brut Champagne</ingredients>
+						<ingredients>Several sprigs of mint</ingredients>
+					</ingre>
+					<mdir>
+						<mdir_steps>Remove a half-dozen mint leaves from sprig.</mdir_steps>
+						<mdir_steps>Put them in a tall Collins glass with syrup and muddle.</mdir_steps>
+						<mdir_steps>Fill glass two-thirds full with cracked ice.</mdir_steps>
+						<mdir_steps>Pour in bourbon.</mdir_steps>
+						<mdir_steps>Stir briskly.</mdir_steps>
+						<mdir_steps>Fill ice-cold champagne.</mdir_steps>
+						<mdir_steps>Stir gently.</mdir_steps>
+						<mdir_steps>Garnish with a large mint sprig.</mdir_steps>
+					</mdir>
+					<glass>
+						<serving_glass>Collins Glass</serving_glass>
+						<image>images/collins_glass.jpg</image>
+					</glass>
+	</group_category>
+	<group_category>
+			<title>Bourbon</title>
+					<bourbon_drinks>Deer Juice</bourbon_drinks>
+					<ingre>
+						<ingredients>1 1/2 oz bourbon</ingredients>
+						<ingredients>2 oz. sweet-and sour mix</ingredients>
+						<ingredients>2 oz. orange juice</ingredients>
+						<ingredients>4 oz. 7-Up</ingredients>
+						<ingredients>Several dashes lemon juice</ingredients>
+						<ingredients>Dash grenadine</ingredients>
+					</ingre>
+					<mdir>
+						<mdir_steps>Mix bourbon, sweet-and-sour mix, and orange juice with cracked ice in a shaker or blender.</mdir_steps>
+						<mdir_steps>Pour into a large chilled cooler glass with several ice cubes.</mdir_steps>
+						<mdir_steps>Fill with 7-Up.</mdir_steps>
+						<mdir_steps>Stir gently.</mdir_steps>
+						<mdir_steps>Top with a squeeze of lemon juice and a dash of grenadine.</mdir_steps>
+					</mdir>
+					<glass>
+						<serving_glass>Cooler Glass</serving_glass>
+						<image>images/cooler_glass.jpg</image>
+					</glass>
+	</group_category>
+	<group_category>
+			<title>Bourbon</title>
+					<bourbon_drinks>Easterly</bourbon_drinks>
+					<ingre>
+						<ingredients>1 oz bourbon</ingredients>
+						<ingredients>1 oz. Pernod</ingredients>
+						<ingredients>1/2 oz. amaretto</ingredients>
+						<ingredients> 4 oz. pineapple juice</ingredients>
+					</ingre>
+					<mdir>
+						<mdir_steps>Mix all ingredients with cracked ice in a shaker or blender.</mdir_steps>
+						<mdir_steps>Pour into a chilled 12-oz. Collins Glass.</mdir_steps>
+					</mdir>
+					<glass>
+						<serving_glass>Collins Glass</serving_glass>
+						<image>images/collins_glass.jpg</image>
+					</glass>		
+	</group_category>
+	<group_category>
+			<title>Bourbon</title>
+					<bourbon_drinks>Father's Milk</bourbon_drinks>
+					<ingre>
+						<ingredients>2 oz bourbon</ingredients>
+						<ingredients>1 tsp. sugar syrup</ingredients>
+						<ingredients>1 cup milk</ingredients>
+						<ingredients>Nutmeg (optional)</ingredients>
+					</ingre>
+					<mdir>
+						<mdir_steps>Mix the bourboun and syrup with milk in a tall highball glass with cracked ice.</mdir_steps>
+						<mdir_steps>Dust with nutmeg.</mdir_steps>
+						<mdir_steps>NOTE: for a frothy drink, mix in a blender.</mdir_steps>
+					</mdir>
+					<glass>
+						<serving_glass>Highball Glass</serving_glass>
+						<image>images/highball_glass.jpg</image>
+					</glass>	
+	</group_category>
+	<group_category>
+			<title>Bourbon</title>
+					<bourbon_drinks>Ginza</bourbon_drinks>
+					<ingre>
+						<ingredients>2 oz bourbon</ingredients>
+						<ingredients>1 oz. sake</ingredients>
+						<ingredients>1 tsp. sugar syrup</ingredients>
+						<ingredients>1 tsp. lemon juice</ingredients>
+						<ingredients>Orange slice</ingredients>
+					</ingre>
+					<mdir>
+						<mdir_steps>Mix all ingredients, except orange, with cracked ice in a shaker or blender.</mdir_steps>
+						<mdir_steps>Pour into a chilled cocktail glass.</mdir_steps>
+						<mdir_steps>Garnish with orange slice.</mdir_steps>
+					</mdir>
+					<glass>
+						<serving_glass>Cocktail Glass</serving_glass>
+						<image>images/cocktail_glass.jpg</image>
+					</glass>	
+	</group_category>
+	<group_category>
+			<title>Bourbon</title>
+					<bourbon_drinks>Hawaiian Eye</bourbon_drinks>
+					<ingre>
+						<ingredients>1 1/2 oz bourbon</ingredients>
+						<ingredients>1/2 oz. créme de banane</ingredients>
+						<ingredients>Kahlua</ingredients>
+						<ingredients>4 oz. pineapple juice</ingredients>
+						<ingredients>1 oz. heavy cream</ingredients>
+						<ingredients>Dash Pernod</ingredients>
+						<ingredients>1 egg white</ingredients>
+						<ingredients>Pineapple slice</ingredients>
+						<ingredients>Cherry</ingredients>
+					</ingre>
+					<mdir>
+						<mdir_steps>Mix all ingredients, except pineapple slice and cherry, with cracked ice blender at high speed for 15 seconds.</mdir_steps>
+						<mdir_steps>Pour into a chilled highball glass.</mdir_steps>
+						<mdir_steps>Garnish with a pineapple slice and cherry.</mdir_steps>
+					</mdir>
+					<glass>
+						<serving_glass>Highball glass</serving_glass>
+						<image>images/highball_glass.jpg</image>
+					</glass>	
+	</group_category>
+	<group_category>
+			<title>Bourbon</title>
+					<bourbon_drinks>Italian Stallion</bourbon_drinks>
+					<ingre>
+						<ingredients>1 1/2 bourbon</ingredients>
+						<ingredients>1/2 oz. Campari</ingredients>
+						<ingredients>1/2 oz sweet vermouth</ingredients>
+						<ingredients>Dash Angostura bitters</ingredients>
+						<ingredients>Lemon peel</ingredients>
+					</ingre>
+					<mdir>
+						<mdir_steps>Stir all ingredients, except lemon peel, with ice in a pitcher.</mdir_steps>
+						<mdir_steps>Strain into a shilled cocktail glass.</mdir_steps>
+						<mdir_steps>Twist lemon peel over drink.</mdir_steps>
+						<mdir_steps>Drop peel into drink.</mdir_steps>
+					</mdir>
+					<glass>
+						<serving_glass>Cocktail Glass</serving_glass>
+						<image>images/cocktail_glass.jpg</image>
+					</glass>	
+	</group_category>
+	<group_category>
+			<title>Bourbon</title>
+					<bourbon_drinks>Jamaica Shake</bourbon_drinks>
+					<ingre>
+						<ingredients>1 1/2 bourbon</ingredients>
+						<ingredients>1 oz. Jamaica dark rum</ingredients>
+						<ingredients>1 oz. heavy cream</ingredients>
+					</ingre>
+					<mdir>
+						<mdir_steps>Mix all ingredients with cracked ice in a shaker or blender.</mdir_steps>
+						<mdir_steps>Strain int a chilled cocktail glass.</mdir_steps>
+					</mdir>
+					<glass>
+						<serving_glass>Cocktail Glass</serving_glass>
+						<image>images/cocktail_glass.jpg</image>
+					</glass>	
+	</group_category>
+	<group_category>
+			<title>Bourbon</title>
+					<bourbon_drinks>Kentucky Champagne Cocktail</bourbon_drinks>
+					<ingre>
+						<ingredients>1 oz 100-proof bourbon</ingredients>
+						<ingredients>1/2 oz. peach liqueur</ingredients>
+						<ingredients>Several dashes bitters</ingredients>
+						<ingredients>Champagne</ingredients>
+						<ingredients>Peach Slices</ingredients>
+					</ingre>
+					<mdir>
+						<mdir_steps>Mix the bourboun, peach schnapps, and bitters in a chilled wine goblet.</mdir_steps>
+						<mdir_steps>Stir with ice cubes.</mdir_steps>
+						<mdir_steps>Fill with champagne.</mdir_steps>
+						<mdir_steps>Garnish with peach slice.</mdir_steps>
+					</mdir>
+					<glass>
+						<serving_glass>Wine Goblet</serving_glass>
+						<image>images/wine_goblet_glass.jpg</image>
+					</glass>				
+	</group_category>
+	<group_category>
+			<title>Bourbon</title>
+					<bourbon_drinks>Little Colonel</bourbon_drinks>
+					<ingre>
+						<ingredients>2 oz bourbon</ingredients>
+						<ingredients>1 oz. Southern Comfort</ingredients>
+						<ingredients>1 oz. lime juice</ingredients>
+					</ingre>
+					<mdir>
+						<mdir_steps>Mix all ingredients with cracked ice in a shaker or blender.</mdir_steps>
+						<mdir_steps>Strain into a chilled cocktail glass.</mdir_steps>
+					</mdir>
+					<glass>
+						<serving_glass>Cocktail Glass</serving_glass>
+						<image>images/cocktail_glass.jpg</image>
+					</glass>
+	</group_category>
+	<group_category>
+			<title>Bourbon</title>
+					<bourbon_drinks>Man O'war</bourbon_drinks>
+					<ingre>
+						<ingredients>1 1/2 oz bourbon</ingredients>
+						<ingredients>1/2 oz. sweet vermouth</ingredients>
+						<ingredients>1 oz. orange curaçao</ingredients>
+						<ingredients>Juice of 1/2 lime</ingredients>
+					</ingre>
+					<mdir>
+						<mdir_steps>Mix all ingredients with cracked ice in a shaker or blender.</mdir_steps>
+						<mdir_steps>Pour into a chilled cocktail glass.</mdir_steps>
+					</mdir>
+					<glass>
+						<serving_glass>Cocktail Glass</serving_glass>
+						<image>images/cocktail_glass.jpg</image>
+					</glass>
+	</group_category>
+	<group_category>
+			<title>Bourbon</title>
+					<bourbon_drinks>Nevin's Cocktail</bourbon_drinks>
+					<ingre>
+						<ingredients>1 1/2 oz bourbon</ingredients>
+						<ingredients>1/2 oz. apricot liqueur</ingredients>
+						<ingredients>1 oz. grapefruit juice</ingredients>
+						<ingredients>1 tsp. lemon juice</ingredients>
+						<ingredients>Several dashes Angostura bitters</ingredients>
+					</ingre>
+					<mdir>
+						<mdir_steps>Mix all ingredients with cracked ice in a shaker or blender.</mdir_steps>
+						<mdir_steps>Serve in an Old Fashioned glass.</mdir_steps>
+					</mdir>
+					<glass>
+						<serving_glass>Old Fashioned Glass</serving_glass>
+						<image>images/old_fashioned_glass.jpg</image>
+					</glass>
+	</group_category>
+	<group_category>
+			<title>Bourbon</title>
+					<bourbon_drinks>Old Fashioned</bourbon_drinks>
+					<ingre>
+						<ingredients>2 oz. bourbon, blended whiskey, Canadian, or rye</ingredients>
+						<water>Dash water</water>
+						<ingredients>Dash sugar syrup</ingredients>
+						<ingredients>Dash or two Angostura</ingredients>
+					</ingre>
+					<mdir>
+						<mdir_steps>Mix all ingredients in an Old Fashioned glass</mdir_steps>
+						<mdir_steps>Add several ice cubes.</mdir_steps>
+					</mdir>
+					<glass>
+						<serving_glass>Old Fashioned Glass</serving_glass>
+						<image>images/old_fashioned_glass.jpg</image>
+					</glass>
+	</group_category>
+	<group_category>
+			<title>Bourbon</title>
+					<bourbon_drinks>Paddock Special</bourbon_drinks>
+					<ingre>
+						<ingredients>2 oz. bourbon</ingredients>
+						<ingredients>1 oz. green créme de menthe</ingredients>
+						<ingredients>Juice of 1/2 lime</ingredients>
+						<ingredients>1 tsp. sugar syrup</ingredients>
+						<ingredients>6 small mint leaves</ingredients>
+						<ingredients>Club soda</ingredients>
+						<ingredients>Mint sprig</ingredients>
+					</ingre>
+					<mdir>
+						<mdir_steps>Add bourbon, créme de menthe. lime juice, syrup, and mint leaves into a bar glass and muddle leaves well.</mdir_steps>
+						<mdir_steps>Put into a blender with cracked ice.</mdir_steps>
+						<mdir_steps>Mix well.</mdir_steps>
+						<mdir_steps>Pour into a chilled Collings glass.</mdir_steps>
+						<mdir_steps>Fill with soda.</mdir_steps>
+						<mdir_steps>Garnish with mint sprig.</mdir_steps>
+					</mdir>
+					<glass>
+						<serving_glass>Collins Glass</serving_glass>
+						<image>images/collins_glass.jpg</image>
+					</glass>
+	</group_category>
+	<group_category>
+			<title>Bourbon</title>
+					<bourbon_drinks>Quick and Easy Mint Julep</bourbon_drinks>
+					<ingre>
+						<ingredients>Several mint sprigs</ingredients>
+						<ingredients>1 tsp. superfine sugar</ingredients>
+						<water>1 tsp. water</water>
+						<ingredients>3 oz. bourbon</ingredients>
+					</ingre>
+					<mdir>
+						<mdir_steps>Muddle mint sprigs in a double Old Fashioned glass with sugar and water until sugar is dissolved.</mdir_steps>
+						<mdir_steps>Fill glass with finely crushed ice and add bourbon.</mdir_steps>
+						<mdir_steps>Stir briskly with an iced-tea spoon.</mdir_steps>
+						<mdir_steps>Garnish with a mint sprig.</mdir_steps>
+					</mdir>
+					<glass>
+						<serving_glass>Old Fashioned Glass</serving_glass>
+						<image>images/old_fashioned_glass.jpg</image>
+					</glass>
+	</group_category>
+	<group_category>
+			<title>Bourbon</title>
+					<bourbon_drinks>Rangoon Swoon</bourbon_drinks>
+					<ingre>
+						<ingredients>1 oz. bourbon</ingredients>
+						<ingredients>1 oz. triple sec</ingredients>
+						<ingredients>1 oz. créme de banane</ingredients>
+						<ingredients>Juice of 1 lemon</ingredients>
+						<ingredients>3 oz. pineapple juice</ingredients>
+					</ingre>
+					<mdir>
+						<mdir_steps>Mix all ingredients with cracked ice in a shaker or blender.</mdir_steps>
+						<mdir_steps>Strain into a chilled cocktail glass</mdir_steps>
+					</mdir>
+					<glass>
+						<serving_glass>Cocktail Glass</serving_glass>
+						<image>images/cocktail_glass.jpg</image>
+					</glass>
+	</group_category>
+	<group_category>
+			<title>Bourbon</title>
+					<bourbon_drinks>S.S. Manhattan</bourbon_drinks>
+					<ingre>
+						<ingredients>1 1/2 oz. bourbon</ingredients>
+						<ingredients>1/2 oz. Benedictine</ingredients>
+						<ingredients>2 oz. orange juice</ingredients>
+					</ingre>
+					<mdir>
+						<mdir_steps>Mix all ingredients with cracked ice in a shaker or blender.</mdir_steps>
+						<mdir_steps>Strain into a chilled cocktail glass</mdir_steps>
+					</mdir>
+					<glass>
+						<serving_glass>Cocktail Glass</serving_glass>
+						<image>images/cocktail_glass.jpg</image>
+					</glass>
+	</group_category>
+	<group_category>
+			<title>Bourbon</title>
+					<bourbon_drinks>Three-base Hit</bourbon_drinks>
+					<ingre>
+						<ingredients>1 oz. bourbon</ingredients>
+						<ingredients>1 oz. light rum</ingredients>
+						<ingredients>1 oz. brandy</ingredients>
+						<ingredients>2 tsp. lemon juice</ingredients>
+						<ingredients>Falernum or sugar syrup</ingredients>
+					</ingre>
+					<mdir>
+						<mdir_steps>Mix all ingredients with cracked ice in a shaker or blender.</mdir_steps>
+						<mdir_steps>Strain into a chilled cocktail glass</mdir_steps>
+					</mdir>
+					<glass>
+						<serving_glass>Cocktail Glass</serving_glass>
+						<image>images/cocktail_glass.jpg</image>
+					</glass>
+	</group_category>
+	<group_category>
+			<title>Bourbon</title>
+					<bourbon_drinks>Whisper of a Kiss</bourbon_drinks>
+					<ingre>
+						<ingredients>1 1/2 oz. bourbon</ingredients>
+						<ingredients>3/4 oz. apricot liqueur</ingredients>
+						<ingredients>1/2 tsp. lemon juice</ingredients>
+						<ingredients>1 tsp. grenadine</ingredients>
+					</ingre>
+					<mdir>
+						<mdir_steps>Mix all ingredients with cracked ice in a shaker or blender.</mdir_steps>
+						<mdir_steps>Strain into a chilled cocktail glass</mdir_steps>
+					</mdir>
+					<glass>
+						<serving_glass>Cocktail Glass</serving_glass>
+						<image>images/cocktail_glass.jpg</image>
+					</glass>
+	</group_category>
+
+
+
+</mixology>

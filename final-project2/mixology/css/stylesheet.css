@@ -1,0 +1,171 @@
+h1, h2, h3, h4, h5, p, li{
+	font-family: 'Tahoma', sans-serif;
+	}
+
+body{
+	width: auto;
+	height: auto;
+	}
+
+.container{
+    width: 1280px;
+    height:auto;
+    margin-left:auto;
+    margin-right:auto;
+    background-color: #E9DAC9;
+    }
+
+#header {
+    height:300px;
+    width: 100%;
+    background-color: black;
+    padding:5px;
+}
+
+/*JS divs for image rotation in header*/
+#banner{
+        position:relative;
+}
+
+#banner img{
+        position: absolute;
+		height:300px;
+		width: 400px;
+        z-index: 1;
+}
+
+#banner img.active{
+        z-index: 3;
+}
+
+#banner2{
+		display: inline-block;
+        position:relative;
+}
+
+#banner2 h1{
+        position: right;
+		padding-left:40%;
+		padding-top: 75px;
+        font-family: 'Tahoma', sans-serif;
+		font-size: 100pt;
+		color: white;
+}
+
+/*Standard navigation feature listing drink elements*/
+#nav {
+    line-height:20px;
+    background-color:#eeeeee;
+    height:600px;
+    width:150px;
+    float:left;
+    padding:5px;	      
+}
+
+/*Two by two column row set to display JS output from XML file.*/
+#main_content {
+    line-height:20px;
+    background-color:lightblue;
+    height:auto;
+    width:800px;
+    float:left;
+    padding:5px; 
+}
+
+#section {
+    width:100%;
+    float:left;
+}
+
+#section_ls {
+    width:320px;
+    float:left;
+    padding:5px;
+}
+
+#showDrink {
+    display: inline-block;
+    font-family: 'Tahoma', sans-serif;
+	height:300px;
+	width:300px;
+    float:left;
+    padding:0px;
+}
+
+#showDrinkIngredients {
+    display: inline-block;
+    font-family: 'Tahoma', sans-serif;
+	height:300px;
+    width:300px;
+    float:left;
+    padding:0px;
+}
+
+#section_rs {
+    width:320px;
+    float:right;
+    padding:5px;	 	 
+}
+
+#showDrinkMixingDirections {
+    display: inline-block;
+    font-family: 'Tahoma', sans-serif;
+	height:300px;
+    width:300px;
+    float:left;
+    padding:0px;
+    border-top: 0px;
+}
+
+#showDrinkServingGlass {
+    display: inline-block;
+    height:300px;
+    width:300px;
+    float:left;
+    padding:0px;
+}
+
+/*Sidebar to list JS from XML file.*/
+#aside {
+    line-height:15px;
+    background-color:#eeeeee;
+    height:auto;
+    width:auto;
+    float:left;
+    padding:5px;          
+}
+
+
+/*JS table attributes for sidebar.*/
+table,th,td {
+    border-collapse: collapse;
+}
+        
+th,td {
+    padding: 5px;
+}
+
+th {
+	font-family: 'Tahoma', sans-serif;
+}
+
+/*JS attributes for text.*/
+#mix {
+    display: inline-block;
+    font-family: 'Tahoma', sans-serif;
+	height:auto;
+	width:300px;
+    float:left;
+    padding:5px;
+}
+
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;         
+}
+
+
+
