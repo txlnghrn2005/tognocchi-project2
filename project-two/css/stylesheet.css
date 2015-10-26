@@ -1,0 +1,107 @@
+table, td, th {
+	border: 1 px solid green;
+	background-color: white;
+}
+
+#header {
+    height:300px;
+    width: 100%;
+    background-color: black;
+    padding:5px;
+}
+
+/*JS divs for image rotation in header*/
+#banner{
+        position:relative;
+}
+
+#banner img{
+        position: absolute;
+		height:300px;
+		width: 400px;
+        z-index: 1;
+}
+
+#banner img.active{
+        z-index: 3;
+}
+
+#banner2{
+		display: inline-block;
+        position:relative;
+}
+
+#banner2 h1{
+        position: right;
+		padding-left:40%;
+		padding-top: 75px;
+        font-family: 'Tahoma', sans-serif;
+		font-size: 100pt;
+		color: white;
+}
+
+body{
+	font-family: Tahoma, sans-serif;
+	font-size:12pt;
+	background-color: #2C3E50;
+	}
+
+h2{
+	text-align: center;
+	font-family: Tahoma, sans-serif;
+	font-size: 36pt;
+	color: silver;
+}
+
+tr{
+	border: 1px;
+	background-color: #2C3E50;
+}
+
+tr th {
+	text-align: center;
+	font-size: 18pt;
+	font-weight: bold;
+	color: silver;
+}
+
+
+th {
+	background-color: green;
+	color: white;
+}
+
+a img {
+	border: 0;
+}
+table.sortable {
+	border-spacing: 0;
+	border: 1px solid #000;
+	border-collapse: collapse;
+}
+table.sortable th, table.sortable td {
+	text-align: left;
+	padding: 2px 4px 2px 4px;
+	width: 100px;
+	border-style: solid;
+	border-color: #444;
+}
+table.sortable th {
+	border-width: 0px 1px 1px 1px;
+	background-color: #ccc;
+}
+table.sortable td {
+	border-width: 0px 1px 0px 1px;
+}
+table.sortable tr.odd td {
+	background-color: #ddd;
+}
+table.sortable tr.even td {
+	background-color: #fff;
+}
+table.sortable tr.sortbottom td {
+	border-top: 1px solid #444;
+	background-color: #ccc;
+	font-weight: bold;
+	color: silver;
+}
